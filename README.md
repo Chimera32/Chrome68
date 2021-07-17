@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Google Chrome 68 Whats New: Download
 
 You can use the [editor on GitHub](https://github.com/Chimera32/Chrome68/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
